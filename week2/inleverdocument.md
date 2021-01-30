@@ -2,7 +2,7 @@
 
 ## International week
 
-- Toon met een korte tekst, foto of link in dit inleverdocument aan dat je hebt meegedaan aan International week.
+- Je hebt meegedaan aan International Week. Omschrijf in een korte tekst wat je het meest is bijgebleven aan International week.
 
 ## Teachable machine
 
