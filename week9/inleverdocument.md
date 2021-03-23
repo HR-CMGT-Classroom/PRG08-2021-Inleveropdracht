@@ -1,5 +1,7 @@
 # Week 9
 
+⚠️ Let op! Deze opdracht is verplaatst naar een aparte opdracht op github classroom!
+
 ## Project
 
 - Plaats je eindprocect in deze folder.
